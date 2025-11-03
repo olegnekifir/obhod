@@ -17,7 +17,7 @@
 
 ## 📦 Скачать
 
-**[Скачать obhod.zip](https://github.com/olegnekifir/obhod/raw/refs/heads/main/obhod.zip)** - последняя версия проекта
+**[Скачать obhod.zip](https://github.com/olegnekifir/obhod/releases/download/1.0.0/obhod.zip)** - последняя версия проекта
 
 ---
 
