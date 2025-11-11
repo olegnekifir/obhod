@@ -63,7 +63,6 @@ Copyright (c) 2016-2025 bol-van
 Copyright (c) 2024-2025 Flowseal
 Copyright (c) 2025 Priler
 Copyright (c) 2025 basil00 (WinDivert, бинарные файлы)
-Copyright (c) 1996 - 2025, Daniel Stenberg, daniel@haxx.se, and many contributors
 Copyright (c) 2025 olegnekifir (obhod.bat, service.bat - модификация, все файлы в папке autostart_configs — модификации)
 
 Полный текст лицензии доступен в файле `LICENSE`.
